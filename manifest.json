@@ -10,12 +10,12 @@
       "64": "icons/64.png"
    },
    "manifest_version": 3,
-   "name": "Поиск в Яндексе из контекстного меню",
+   "name": "Искать выделенный текст в Яндексе",
    "permissions": [
       "contextMenus"
    ],
    "description": "This extensions helps you to search information with yandex from context menu",
    "homepage_url": "https://kolotukhin.net",
    "author": "Pavel Kolotukhin",
-   "version": "2.0"
+   "version": "2.2"
 }
